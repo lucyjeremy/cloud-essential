@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "\n얼굴 #1\n----------------------------------------\n  추정 나이: 19~25세\n  성별: Female (신뢰도: 99.9%)\n  감정 분석 (상위 3개):\n    - HAPPY        100.0%\n    - CALM         0.0%\n    - SURPRISED    0.0%\n  웃음: True (99.8%)\n  안경: True (100.0%)\n", "name": "stdout"}

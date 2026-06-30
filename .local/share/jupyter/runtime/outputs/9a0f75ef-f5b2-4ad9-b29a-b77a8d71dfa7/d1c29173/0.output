@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "이미지 경로: ./images/lab01.jpg\n파일 존재 여부: True\n이미지 크기: 494,853 bytes\n", "name": "stdout"}

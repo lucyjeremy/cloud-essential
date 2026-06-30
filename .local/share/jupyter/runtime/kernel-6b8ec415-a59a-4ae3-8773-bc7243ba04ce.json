@@ -1,0 +1,13 @@
+{
+  "shell_port": 37191,
+  "iopub_port": 47837,
+  "stdin_port": 35151,
+  "control_port": 42709,
+  "hb_port": 52895,
+  "ip": "127.0.0.1",
+  "key": "c5ebe2af-f13d962279c2c48c788329c9",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/04-rekognition/lab_exercises/1-object-detection-exercise.ipynb"
+}

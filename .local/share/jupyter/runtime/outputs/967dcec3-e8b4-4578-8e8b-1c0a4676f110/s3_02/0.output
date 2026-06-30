@@ -1,1 +1,1 @@
-{"output_type": "stream", "text": "✅ FAQ 데이터 로드 완료: 10개 Q&A\n", "name": "stdout"}
+{"name": "stdout", "output_type": "stream", "text": "✅ FAQ 데이터 로드 완료: 10개 Q&A\n"}
