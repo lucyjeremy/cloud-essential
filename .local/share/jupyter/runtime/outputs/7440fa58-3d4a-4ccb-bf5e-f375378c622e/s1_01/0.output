@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "✅ Bedrock 클라이언트 생성 완료\n  bedrock           : bedrock\n  bedrock-runtime   : bedrock-runtime\n"}

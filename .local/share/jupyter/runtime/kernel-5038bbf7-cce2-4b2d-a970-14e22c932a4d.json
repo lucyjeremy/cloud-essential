@@ -1,0 +1,13 @@
+{
+  "shell_port": 58787,
+  "iopub_port": 37581,
+  "stdin_port": 49941,
+  "control_port": 56187,
+  "hb_port": 48371,
+  "ip": "127.0.0.1",
+  "key": "1e2df096-99a81b4140e28f0c94a5dd60",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/02/comprehend-lab3-student.ipynb"
+}

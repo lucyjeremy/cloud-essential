@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "▶ 전체 감성(detect_sentiment): MIXED\n   → {'Positive': 0.0, 'Negative': 0.0, 'Neutral': 0.0, 'Mixed': 1.0}\n\n▶ 개체별 감성(detect_targeted_sentiment):\n"}

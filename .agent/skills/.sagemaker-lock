@@ -1,0 +1,55 @@
+{
+  "skills": {
+    "dataset-evaluation": {
+      "checksum": "34ce119b0bcdcc584841ba2897497def3a8cceb0836b7c4d66abe2846d5fda04"
+    },
+    "dataset-transformation": {
+      "checksum": "e074bfcc83ecbb5d5731bb5671c6a44a4280d763d80b5b4ecc4c6271894f3ea4"
+    },
+    "directory-management": {
+      "checksum": "2b1416a65a34318e725e9eb19ddb5885a0f641652ac7833f0b93538f3f5705ba"
+    },
+    "finetuning-setup": {
+      "checksum": "786fae3602e047b08fe0f1e8e3f6755c60d59c154e00e983616eabf39316a998"
+    },
+    "finetuning": {
+      "checksum": "d637abb436f5f9a997b32ae2d8fed7eda346e68e080eaa732b24bea394f0a2f9"
+    },
+    "hyperpod-cluster-debugger": {
+      "checksum": "98d34936b66d1924f97da76f3bfcb4156058e28b236a7fa2f5167fd01bfb89e8"
+    },
+    "hyperpod-issue-report": {
+      "checksum": "65629a458044f70d019108f260b060163e557f73dde0bb5ebf21c90b24e6c4be"
+    },
+    "hyperpod-nccl": {
+      "checksum": "cd14cccd6b3e35b041eb0c49511e6774dfba67dd8b2ad2640d6c343e1f736b9f"
+    },
+    "hyperpod-node-debugger": {
+      "checksum": "6f56c700013e90723a70824b81443665d2de1b2d0044d5afe5e77cf1a112724a"
+    },
+    "hyperpod-performance-debugger": {
+      "checksum": "0d7b45dff208ed59ebc704adf14fd333a67a317b34e4e69fe481cae29bf6ef20"
+    },
+    "hyperpod-slurm-debugger": {
+      "checksum": "dfc78a7a79b7f0d57ed10fdb8636a6c7a7d9228e7b0df862bb260515e5c4670c"
+    },
+    "hyperpod-ssm": {
+      "checksum": "ca546df973f1f45d5b6ce4c86b65105ebc164cf3aee09051ddf332bf8a2c7805"
+    },
+    "hyperpod-version-checker": {
+      "checksum": "fa8545ffd9091e49708634a407523582401255922b0c462fc1681c6ce5fc2ea4"
+    },
+    "model-deployment": {
+      "checksum": "b3d07a3d2e0a62d99bbf182061fc4e04677ca6c49a3ff4c7359bc8e70a9174ff"
+    },
+    "model-evaluation": {
+      "checksum": "95782d6f72de795e8aa5bd083b56108d71a58a79898e0eab54d11f6c5e8a5e3a"
+    },
+    "planning": {
+      "checksum": "a0ac7d69dbd8ac08a73834b590c6d3f417e70a0b87021117d20cb5ec01a62969"
+    },
+    "use-case-specification": {
+      "checksum": "73f5690235393606254b88197815be6ba3d481718dc0b3e98f0e6c3a541b7ffb"
+    }
+  }
+}

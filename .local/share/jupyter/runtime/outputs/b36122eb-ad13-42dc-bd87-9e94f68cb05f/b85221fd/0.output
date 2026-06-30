@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "PII 유형별 빈도: {'NAME': 2, 'EMAIL': 3, 'PHONE': 2, 'ADDRESS': 1, 'CREDIT_DEBIT_NUMBER': 1, 'SSN': 1}\n"}

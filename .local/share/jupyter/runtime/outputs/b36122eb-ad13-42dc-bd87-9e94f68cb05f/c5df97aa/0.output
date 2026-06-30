@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "추출된 LOCATION: ['대구', '미국 뉴욕', '부산', '서울 강남구', '일본 도쿄']\n→ 위 LOCATION을 지오코딩해 folium.Marker로 찍으면 언급 지역 지도가 완성됩니다.\n"}

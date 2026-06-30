@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "언어 감지 결과:\n-------------------------------------------------------\n  [ko] 0.793  배송이 빠르고 포장도 꼼꼼했어요. 재구매 의사 있습니다\n  [en] 0.974  The fabric quality is amazing \n  [ja] 1.000  サイズが小さめなので、ワンサイズ大きめがおすすめです。\n  [fr] 0.997  La couleur est un peu differen\n", "name": "stdout"}

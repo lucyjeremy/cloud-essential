@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "                 텍스트       감성  Positive  Negative\n사이즈가 딱 맞고 색상도 화면이랑 똑 POSITIVE     0.994     0.002\n배송이 일주일 넘게 걸렸어요. 너무  NEGATIVE     0.000     1.000\n가성비 최고입니다. 친구에게도 추천했 POSITIVE     1.000     0.000\n주문한 색상과 다른 색이 왔어요. 교 NEGATIVE     0.013     0.958\n품질 대비 가격이 합리적이에요. 만족 POSITIVE     1.000     0.000\n", "name": "stdout"}

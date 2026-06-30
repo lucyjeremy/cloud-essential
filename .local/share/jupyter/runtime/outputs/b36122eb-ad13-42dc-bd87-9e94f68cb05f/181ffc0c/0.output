@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "                문장    KO_감성  KO_Pos    EN_감성  EN_Pos\n이 제품 정말 최고예요! 완전 만 POSITIVE   1.000 POSITIVE   1.000\n완전 실망이에요. 다시는 안 살  NEGATIVE   0.000 NEGATIVE   0.000\n그냥 평범해요. 나쁘지도 좋지도  NEGATIVE   0.024    MIXED   0.096\n"}

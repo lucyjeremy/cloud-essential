@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "   camera          → POSITIVE\n   quality         → POSITIVE\n   battery         → NEGATIVE\n   price           → NEGATIVE\n\n해석: 전체는 하나로 뭉뚱그려지지만, 대상 감성은 camera=긍정 / battery·price=부정으로 분리됩니다.\n"}
