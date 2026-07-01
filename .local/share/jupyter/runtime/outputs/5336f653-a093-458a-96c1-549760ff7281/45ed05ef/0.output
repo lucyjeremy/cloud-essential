@@ -1,1 +1,1 @@
-{"output_type": "stream", "text": "매칭된 얼굴: 0개\n매칭 안 된 얼굴: 1개\n", "name": "stdout"}
+{"name": "stdout", "output_type": "stream", "text": "매칭된 얼굴: 0개\n매칭 안 된 얼굴: 1개\n"}
