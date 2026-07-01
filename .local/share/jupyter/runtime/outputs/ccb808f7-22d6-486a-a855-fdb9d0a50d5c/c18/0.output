@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "✅ all_text.json 저장 완료\n✅ all_forms.json 저장 완료\n✅ 표 CSV 0개 저장 완료\n\n결과 저장 위치: ./lab06_output/\n  all_forms.json                         1,589 bytes\n  all_text.json                          3,231 bytes\n", "name": "stdout"}

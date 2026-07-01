@@ -1,0 +1,13 @@
+{
+  "shell_port": 41361,
+  "iopub_port": 59145,
+  "stdin_port": 46567,
+  "control_port": 42725,
+  "hb_port": 56609,
+  "ip": "127.0.0.1",
+  "key": "f47f0aa6-25deb01e223f137c4544f529",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/06-Textract/textract_labs/3-queries-exercise.ipynb"
+}

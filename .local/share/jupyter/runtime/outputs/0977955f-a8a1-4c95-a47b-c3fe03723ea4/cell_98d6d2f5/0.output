@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "\n✅ document_ai_pipeline() 완료\n\n사용법:\n  result = document_ai_pipeline('./images/your_document.jpg')\n", "name": "stdout"}

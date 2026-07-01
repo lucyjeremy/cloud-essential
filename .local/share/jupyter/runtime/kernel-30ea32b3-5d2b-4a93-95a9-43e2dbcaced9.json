@@ -1,0 +1,13 @@
+{
+  "shell_port": 42253,
+  "iopub_port": 59239,
+  "stdin_port": 52559,
+  "control_port": 45315,
+  "hb_port": 45689,
+  "ip": "127.0.0.1",
+  "key": "64a794a0-85661ff52a10dfb25915ceb2",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/06-Textract/textract_labs/6-async-pipeline-exercise.ipynb"
+}

@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "선택한 LINE: 'Amazon Textract'\n\n포함된 WORD 블록:\n----------------------------------------\n  WORD: 'Amazon' (신뢰도: 100.0%)\n  WORD: 'Textract' (신뢰도: 100.0%)\n", "name": "stdout"}

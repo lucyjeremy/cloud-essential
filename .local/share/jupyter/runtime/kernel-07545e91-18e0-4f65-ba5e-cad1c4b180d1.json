@@ -1,0 +1,13 @@
+{
+  "shell_port": 47173,
+  "iopub_port": 59405,
+  "stdin_port": 39989,
+  "control_port": 53885,
+  "hb_port": 58113,
+  "ip": "127.0.0.1",
+  "key": "35bf2273-1e7245b8d1485bf273bab2fc",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/06-Textract/textract_labs/7-capstone-project-exercise.ipynb"
+}

@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "✅ 라이브러리 임포트 완료\n  boto3 버전: 1.42.97\n  AWS 계정 ID: 054422645032\n  ARN: arn:aws:sts::054422645032:assumed-role/AmazonSageMaker-ExecutionRole-20260629T154089/SageMaker\n\n✅ AWS 자격증명 정상\n", "name": "stdout"}

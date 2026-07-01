@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "  키워드 점수 — 영수증: 2, 신분증: 0\n  → 감지된 유형: EXPENSE\n\n[2단계] 정보 추출...\n", "name": "stdout"}

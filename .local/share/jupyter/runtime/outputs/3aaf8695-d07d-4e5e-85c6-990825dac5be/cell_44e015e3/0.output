@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "추출된 Key-Value 쌍: 4개\n\n폼 데이터:\n--------------------------------------------------\n  Full Name:                     : Jane Doe\n  Home Address:                  : 123 Any Street, Any Town, USA\n  Mailing Address:               : same as home address\n  Phone Number:                  : 555-0100\n", "name": "stdout"}

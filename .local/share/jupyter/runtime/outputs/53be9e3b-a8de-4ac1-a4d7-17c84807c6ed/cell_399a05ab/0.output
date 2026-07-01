@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "✅ 공통 유틸리티 함수 로드 완료\n  사용 가능한 함수: load_document_bytes(), show_image(), draw_bounding_boxes()\n", "name": "stdout"}

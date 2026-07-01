@@ -1,0 +1,1 @@
+{"name": "stdout", "output_type": "stream", "text": "영수증 요약 정보:\n--------------------------------------------------\n  INVOICE_RECEIPT_ID            : 35678-9 (96.8%)\n  TOTAL                         : 2100.00 (99.9%)\n\n전체 감지된 필드 수: 2개\n전체 필드 목록: ['INVOICE_RECEIPT_ID', 'TOTAL']\n"}

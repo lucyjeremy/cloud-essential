@@ -1,0 +1,1 @@
+{"output_type": "stream", "text": "BlockType 분포:\n  CELL                         35개\n  KEY_VALUE_SET                 8개\n  LINE                         28개\n  MERGED_CELL                   2개\n  PAGE                          1개\n  TABLE                         2개\n  TABLE_TITLE                   2개\n  WORD                         63개\n", "name": "stdout"}
